@@ -1,0 +1,6 @@
+pack
+.vs
+bin
+pbj
+*.user.csproj
+*.nupkg
